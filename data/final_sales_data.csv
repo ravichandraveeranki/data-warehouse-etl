@@ -1,0 +1,6 @@
+sale_id,customer_id,product_id,quantity,date,name,city,product_name,price,revenue
+1,1,101,1,2024-01-01,Ravi,New York,Laptop,1000,1000
+2,2,102,2,2024-01-02,John,Chicago,Phone,500,1000
+3,3,103,1,2024-01-03,Alice,San Francisco,Tablet,300,300
+4,1,104,3,2024-01-04,Ravi,New York,Headphones,100,300
+5,4,101,1,2024-01-05,Bob,Texas,Laptop,1000,1000
